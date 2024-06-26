@@ -127,6 +127,10 @@ const Login = () => {
                 تسجيل دخول
               </LoadingButton>
             </Box>
+            <Box sx={{ "& p": { color: "#fff", fontSize: 12 }, display: "flex", gap: 2 }}>
+              <Typography>اسم مستخدم: user</Typography>
+              <Typography>كلمة مرور: 12345</Typography>
+            </Box>
             <Copyright />
           </Box>
         </Grid>

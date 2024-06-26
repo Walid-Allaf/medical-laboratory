@@ -1,0 +1,120 @@
+/***********************************************laboratoryConstant*****************************************/ Done
+
+  GET|HEAD        api/v1/laboratoryConstant   
+  POST            api/v1/laboratoryConstant  
+  GET|HEAD        api/v1/laboratoryConstant/{laboratoryConstant}   
+  PUT|PATCH       api/v1/laboratoryConstant/{laboratoryConstant}   
+  DELETE          api/v1/laboratoryConstant/{laboratoryConstant}  
+
+ /*****************************************user****************************************************/ Done
+
+  GET|HEAD        api/v1/user
+  POST            api/v1/user
+  GET|HEAD        api/v1/user/{user}
+  PUT|PATCH       api/v1/user/{user}
+  DELETE          api/v1/user/{user}
+
+/*********************************************patient**********************************************/ Done
+
+  GET|HEAD        api/v1/patient
+  POST            api/v1/patient
+  GET|HEAD        api/v1/patient/{patient}
+  PUT|PATCH       api/v1/patient/{patient}
+  DELETE          api/v1/patient/{patient}
+
+/**********************************************doctor*********************************************/ Done
+
+  GET|HEAD        api/v1/doctor 
+  POST            api/v1/doctor 
+  GET|HEAD        api/v1/doctor/{doctor} 
+  PUT|PATCH       api/v1/doctor/{doctor} 
+  DELETE          api/v1/doctor/{doctor} 
+
+/*********************************************category************************************************/ Done
+
+  GET|HEAD        api/v1/category  
+  POST            api/v1/category 
+  GET|HEAD        api/v1/category/{category}
+  PUT|PATCH       api/v1/category/{category} 
+  DELETE          api/v1/category/{category} 
+
+/********************************************group************************************************/ Done
+
+  GET|HEAD        api/v1/group 
+  POST            api/v1/group 
+  GET|HEAD        api/v1/group/{group}
+  PUT|PATCH       api/v1/group/{group} 
+  DELETE          api/v1/group/{group} 
+
+/***********************************************naturalField*****************************************/ Done
+
+  GET|HEAD        api/v1/naturalField   
+  POST            api/v1/naturalField   
+  GET|HEAD        api/v1/naturalField/{naturalField}   
+  PUT|PATCH       api/v1/naturalField/{naturalField} 
+  DELETE          api/v1/naturalField/{naturalField} 
+
+/********************************analyse*******************************************/
+
+  GET|HEAD        api/v1/analyse 
+  POST            api/v1/analyse
+  GET|HEAD        api/v1/analyse/{analyse} 
+  PUT|PATCH       api/v1/analyse/{analyse}  
+  DELETE          api/v1/analyse/{analyse} 
+
+/********************************************doctorPhone*******************************************/
+
+  GET|HEAD        api/v1/doctorPhone 
+  POST            api/v1/doctorPhone 
+  GET|HEAD        api/v1/doctorPhone/{doctorPhone}   
+  PUT|PATCH       api/v1/doctorPhone/{doctorPhone} 
+  DELETE          api/v1/doctorPhone/{doctorPhone} 
+
+
+ /**********************************************ic_patient***************************************/
+
+  GET|HEAD        api/v1/ic_patient 
+  POST            api/v1/ic_patient 
+  GET|HEAD        api/v1/ic_patient/{ic_patient} 
+  PUT|PATCH       api/v1/ic_patient/{ic_patient} 
+  DELETE          api/v1/ic_patient/{ic_patient} 
+
+/***********************************************ic_phone*****************************************/
+
+  GET|HEAD        api/v1/ic_phone
+  POST            api/v1/ic_phone
+  GET|HEAD        api/v1/ic_phone/{ic_phone}
+  PUT|PATCH       api/v1/ic_phone/{ic_phone}
+  DELETE          api/v1/ic_phone/{ic_phone}
+
+/***********************************************insuranceCompanies*****************************************/
+
+  GET|HEAD        api/v1/insuranceCompanies   
+  POST            api/v1/insuranceCompanies  
+  GET|HEAD        api/v1/insuranceCompanies/{insuranceCompany}   
+  PUT|PATCH       api/v1/insuranceCompanies/{insuranceCompany}   
+  DELETE          api/v1/insuranceCompanies/{insuranceCompany} 
+
+/***********************************************labPhone*****************************************/
+
+  GET|HEAD        api/v1/labPhone   
+  POST            api/v1/labPhone 
+  GET|HEAD        api/v1/labPhone/{labPhone}   
+  PUT|PATCH       api/v1/labPhone/{labPhone}  
+  DELETE          api/v1/labPhone/{labPhone} 
+
+/*****************************************test****************************************************/
+
+  GET|HEAD        api/v1/test  
+  POST            api/v1/test  
+  GET|HEAD        api/v1/test/{test}  
+  PUT|PATCH       api/v1/test/{test}  
+  DELETE          api/v1/test/{test}
+ 
+/*****************************************testDetail****************************************************/
+
+  GET|HEAD        api/v1/testDetail
+  POST            api/v1/testDetail
+  GET|HEAD        api/v1/testDetail/{testDetail} 
+  PUT|PATCH       api/v1/testDetail/{testDetail} 
+  DELETE          api/v1/testDetail/{testDetail}
